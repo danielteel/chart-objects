@@ -1,5 +1,5 @@
 {
-  "name": "chart-objects",
+  "name": "@dteel/chart-objects",
   "version": "1.0.0",
   "description": "supporting files classes for output files from ChartStudio",
   "main": "chart-objects.js",
