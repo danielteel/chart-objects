@@ -1,0 +1,17 @@
+{
+  "name": "chart-objects",
+  "version": "1.0.0",
+  "description": "supporting files classes for output files from ChartStudio",
+  "main": "chart-objects.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielteel/gpdsl.git"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dteel/gpdsl": "^1.1.3"
+  }
+}
