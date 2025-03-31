@@ -473,8 +473,10 @@ class PolyChart extends ChartObject{
 						}
 
 						let curSegXInt = curSeg.getSegmentIntersection(horizSeg, true);
-						if ( (curSegXInt ? curSegXInt.x : null) <= xIn){
-							intersectsLeftOfX++;
+						if (curSegXInt !== null){
+							if (curSegXInt.x <= xIn){
+								intersectsLeftOfX++;
+							}
 						}
 					}
 
