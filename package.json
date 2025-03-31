@@ -1,6 +1,6 @@
 {
   "name": "@dteel/chart-objects",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "supporting files classes for output files from ChartStudio",
   "main": "chart-objects.js",
   "type": "module",
